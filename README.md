@@ -26,7 +26,6 @@
 
 # Resources
 - Module class lessons and activities
-- Tutoring session with Reza
 - Openweathermap API documentation: https://openweathermap.org/current
 - Geoapify API documentation: https://apidocs.geoapify.com/docs/places/#categories
 - reference on time library to correctly label weather chart dates: https://www.geeksforgeeks.org/python-time-module/
